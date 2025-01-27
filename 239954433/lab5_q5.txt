@@ -1,0 +1,3 @@
+SELECT * FROM course
+INNER JOIN registration
+ON course.course_code = registration.course_code;

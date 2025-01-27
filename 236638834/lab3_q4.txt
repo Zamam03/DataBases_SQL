@@ -1,0 +1,1 @@
+INSERT INTO students (student_num, student_lname, enrollment_date) VALUES ("76", "Vukosi", '2021-09-09');
