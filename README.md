@@ -11,7 +11,6 @@ This repository is dedicated to providing a comprehensive guide and set of examp
 - [Example](#example)
 - [Requirements](#requirements)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
